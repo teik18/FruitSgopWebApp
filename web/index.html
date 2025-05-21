@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Login Page</title>
+    <link rel="icon" type="image/jpg" href="New-form-logo.jpg">
+    <style>
+        .user{
+            display: flex;
+            justify-content: center;
+            margin: 10px;
+        }
+
+        .user p {
+            width: 100px;
+            display: flex;
+            align-items: center;
+        }
+
+        .user input {
+            width: 260px;
+            height: 30px;
+        }
+
+        .title {
+            display: flex;
+            justify-content: center;
+        }
+
+        .button {
+            display: flex;
+            justify-content: center;
+            margin-top: 20px;
+        }
+
+        .button input {
+            padding: 10px 20px;
+            margin: 0 10px;
+            background-color: aquamarine;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+        }
+
+        .action a {
+            display: flex;
+            justify-content: center;
+            margin-top: 10px;
+            text-decoration: none;
+        }
+
+        .action a:hover {
+            text-decoration: underline;
+        }
+    </style>
+</head>
+<body>
+
+    <div class="title">
+        <h1>Login Page</h1>
+    </div>
+
+    <form action="LoginServlet" method="POST">
+        <div class="user">
+            <p>User ID</p> 
+            <input type="text" name="txtUser">
+        </div>
+        <div class="user">
+            <p>Password</p> 
+            <input type="password" name="txtPass">
+        </div>
+        <div class="button">
+            <input type="submit" value="Login">
+            <input type="reset" value="Reset">
+        </div>
+    </form>
+
+
+</body>
+</html>
