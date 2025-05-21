@@ -108,7 +108,7 @@
     %>
     
     <div class="nav-links">
-        <a href="Shop.jsp">Continue Shopping</a>
+        <a href="ShopServlet">Continue Shopping</a>
     </div>
 </body>
 </html>

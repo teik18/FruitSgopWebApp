@@ -47,6 +47,7 @@
     <body>
         <div class="top-nav">
             <a href="ProductServlet">Product List</a>
+            <a href="ShopServlet">Continue Shopping</a>
             <a href="ProductForm.jsp">Add Product</a>
             <a href="LogoutServlet">Logout</a>
         </div>
@@ -72,6 +73,6 @@
                 </tr>
             </c:forEach>
         </table>
-       
+        
     </body>
 </html>
