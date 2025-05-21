@@ -52,8 +52,8 @@
     <%
         try {
         Class.forName("com.microsoft.sqlserver.jdbc.SQLServerDriver");
-        String connectionString = "jdbc:sqlserver://EOKAY\\EXPRESS:1433;database=SampleDB";
-        conn = DriverManager.getConnection(connectionString, "sa", "123456"); // Fixed here
+        String connectionString = "jdbc:sqlserver://localhost:1433;database=SampleDB";
+        conn = DriverManager.getConnection(connectionString, "sa", "12345"); // Fixed here
         String sql = "SELECT p.name AS product_name, o.quantity AS quantity, p.price as price FROM orders o JOIN Product p ON p.id = o.id WHERE o.username = ?";
         stmt = conn.prepareStatement(sql);
         stmt.setString(1, username);

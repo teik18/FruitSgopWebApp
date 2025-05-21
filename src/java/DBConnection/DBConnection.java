@@ -14,8 +14,8 @@ import java.sql.SQLException;
  */
 public class DBConnection {
     private static String user = "sa";
-    private static String password = "123456";
-    private static String url = "jdbc:sqlserver://EOKAY\\SQLEXPRESS:1433;databaseName=SampleDB";
+    private static String password = "12345";
+    private static String url = "jdbc:sqlserver://localhost:1433;databaseName=SampleDB";
     public static Connection getConnection() {
         Connection conn = null;
         try {
