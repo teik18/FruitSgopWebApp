@@ -11,7 +11,7 @@
 <%
     Boolean role = (Boolean) session.getAttribute("role");
     if (session.getAttribute("username") == null || role == null || !role) {
-        response.sendRedirect("shop.jsp");
+        response.sendRedirect("Shop.jsp");
         return;
     }
 %>

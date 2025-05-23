@@ -3,22 +3,17 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/C:/Users/Admin/Documents/Zalo%20Received%20Files/FruitShopWebApp/FruitShopWebApp/src/java/DBUtils/UserDAO.java</file>
+            <file>file:/C:/Users/Admin/Documents/Zalo%20Received%20Files/FruitShopWebApp/FruitShopWebApp/src/java/UserServlet/ProductServlet.java</file>
             <file>file:/C:/Users/Admin/Documents/Zalo%20Received%20Files/FruitShopWebApp/FruitShopWebApp/src/java/UserServlet/LoginServlet.java</file>
-            <file>file:/C:/Users/Admin/Documents/Zalo%20Received%20Files/FruitShopWebApp/FruitShopWebApp/src/java/DBUtils/Cart.java</file>
+            <file>file:/C:/Users/Admin/Documents/Zalo%20Received%20Files/FruitShopWebApp/FruitShopWebApp/web/WEB-INF/web.xml</file>
+            <file>file:/C:/Users/Admin/Documents/Zalo%20Received%20Files/FruitShopWebApp/FruitShopWebApp/web/Cart.jsp</file>
             <file>file:/C:/Users/Admin/Documents/Zalo%20Received%20Files/FruitShopWebApp/FruitShopWebApp/web/Shop.jsp</file>
             <file>file:/C:/Users/Admin/Documents/Zalo%20Received%20Files/FruitShopWebApp/FruitShopWebApp/src/java/DBConnection/DBConnection.java</file>
-            <file>file:/C:/Users/Admin/Documents/Zalo%20Received%20Files/FruitShopWebApp/FruitShopWebApp/web/Cart.html</file>
             <file>file:/C:/Users/Admin/Documents/Zalo%20Received%20Files/FruitShopWebApp/FruitShopWebApp/web/ProductList.jsp</file>
-            <file>file:/C:/Users/Admin/Documents/Zalo%20Received%20Files/FruitShopWebApp/FruitShopWebApp/src/java/DBUtils/Product.java</file>
             <file>file:/C:/Users/Admin/Documents/Zalo%20Received%20Files/FruitShopWebApp/FruitShopWebApp/src/java/UserServlet/ManageOrder.java</file>
-            <file>file:/C:/Users/Admin/Documents/Zalo%20Received%20Files/FruitShopWebApp/FruitShopWebApp/src/java/DBUtils/Order.java</file>
-            <file>file:/C:/Users/Admin/Documents/Zalo%20Received%20Files/FruitShopWebApp/FruitShopWebApp/src/java/UserServlet/ProductServlet.java</file>
-            <file>file:/C:/Users/Admin/Documents/Zalo%20Received%20Files/FruitShopWebApp/FruitShopWebApp/src/java/UserServlet/ManageCart.java</file>
-            <file>file:/C:/Users/Admin/Documents/Zalo%20Received%20Files/FruitShopWebApp/FruitShopWebApp/src/java/DBUtils/OrderDAO.java</file>
-            <file>file:/C:/Users/Admin/Documents/Zalo%20Received%20Files/FruitShopWebApp/FruitShopWebApp/web/index.html</file>
+            <file>file:/C:/Users/Admin/Documents/Zalo%20Received%20Files/FruitShopWebApp/FruitShopWebApp/src/java/UserServlet/LogoutServlet.java</file>
+            <file>file:/C:/Users/Admin/Documents/Zalo%20Received%20Files/FruitShopWebApp/FruitShopWebApp/web/ViewOrder.jsp</file>
             <file>file:/C:/Users/Admin/Documents/Zalo%20Received%20Files/FruitShopWebApp/FruitShopWebApp/web/ProductForm.jsp</file>
-            <file>file:/C:/Users/Admin/Documents/Zalo%20Received%20Files/FruitShopWebApp/FruitShopWebApp/src/java/DBUtils/ProductDAO.java</file>
         </group>
     </open-files>
 </project-private>
